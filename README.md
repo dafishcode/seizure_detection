@@ -8,10 +8,11 @@ This repo is used for detecting the timecourse of seizure events in generalised 
 * Modules contain functions for running seizure detection 
 * Accompanying ipynotebooks demonstrate how to use the modules
 * 
-Modules
+
+## Modules
 'admin_functions.py' - useful administrative functions
 
 'detect.py' - functions for detecting seizure events
 
-Notebooks
+## Notebooks
 'detect.ipynb' - running and implementing detect functions
